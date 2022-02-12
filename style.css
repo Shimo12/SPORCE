@@ -42,7 +42,7 @@
 
 .content-title{
     text-align: center;
-    font-size:3vw;
+    font-size:4vw;
     padding-bottom: -5vw;
     color:#676d71;
     font-family: 'PT Serif', serif;
@@ -62,7 +62,7 @@
 .content-text{
     font-family: 'Noto Sans JP', sans-serif;
     margin-left: 3vw;
-    font-size:2.5vw;
+    font-size:3vw;
     color:#00bfff;
 }
 
@@ -70,7 +70,7 @@
     font-family: 'Noto Sans JP', sans-serif;
     color:#a9a9a9;
     margin-left: 3vw;
-    font-size:2.2vw;
+    font-size:2.5vw;
     padding-bottom: 5vw;
 }
 
@@ -92,7 +92,7 @@
     font-family: 'Noto Sans JP', sans-serif;
     color:#407194;
     margin-left: 3vw;
-    font-size:2.2vw;
+    font-size:2.5vw;
     padding-bottom: 5vw;
 }
 
@@ -102,9 +102,11 @@
 }
 
 .plan-text{
-    display: table-cell;
+    display: flex;
+    justify-content: center;
 }
 .plan-text1{
+    width:50%;
     margin-left: 1vw;
 }
 .plan-text1 h3{
@@ -112,7 +114,7 @@
 }
 
 .plan-text2{
-    margin-left: 18vw;
+    width:50%;
 }
 
 .plan-text2 h3{
