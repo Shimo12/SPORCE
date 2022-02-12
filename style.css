@@ -106,6 +106,7 @@
     justify-content: center;
 }
 .plan-text1{
+    font-family: 'Noto Sans JP', sans-serif;
     width:50%;
 }
 .plan-text1 h3{
@@ -113,26 +114,25 @@
 }
 
 .plan-text2{
+    font-family: 'Noto Sans JP', sans-serif;
     width:50%;
 }
 
 .plan-text2 h3{
     font-size:3vw;
+    
 }
 
 .plan-text1 h4{
     font-size:3vw;
-    margin-left:1vw;
-    margin-top:-3vw;
     color:#ff69b4;
+    margin-top: -3vw;
 }
 
 .plan-text1 h5{
     margin-top: -3vw;
-    margin-left: 2vw;
 }
 
 .plan-text2 h5{
     margin-top: -3vw;
-    margin-left: 2vw;
 }
