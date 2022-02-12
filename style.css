@@ -9,15 +9,14 @@
 }
 .pic img{
     margin-top:-1.5vw;
-    width:375px;
-    height:500px;
+    width:100%;
     margin-left: -1.5vw;
 }
 
 .sentence{
     font-family: 'Noto Sans JP', sans-serif;
     position: absolute;
-    top: 15%;
+    top: 30%;
     font-size: 7vw;
     line-height: 250%;
     margin-left: 6%;
@@ -27,15 +26,18 @@
     
 }
 
-.front-font {
-    position: absolute;
-    top: -4%;
-    left: 5%;
-    font-size: 4vw;
-    color:
-    #f8fafb;
+.front-font h1{
+    font-size: 5vw;
+    color:#f8fafb;
     font-family: 'PT Serif', serif;
     text-shadow: 1px 1px 0 #000, -1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+
+.front-font h2{
+    font-size: 3vw;
+    color:#000;
+    font-family: 'PT Serif', serif;
+    margin-top:-3vw;
 }
 
 .content-title{
