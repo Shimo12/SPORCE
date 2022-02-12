@@ -101,44 +101,16 @@
     margin-top: 5vw;
 }
 
-.plan-text{
-    display: flex;
-    justify-content: center;
-}
-.plan-text1{
-    font-family: 'Noto Sans JP', sans-serif;
-    width:50%;
-}
-.plan-text1 h3{
-    font-size:3vw;
-}
-
-.plan-text2{
-    font-family: 'Noto Sans JP', sans-serif;
-    width:50%;
-}
-
-.plan-text2 h3{
-    font-size:3vw;
-    
-}
-
-.plan-text1 h4{
-    font-size:3vw;
-    color:#ff69b4;
-    margin-top: -3vw;
-}
-
-.plan-text1 h5{
-    margin-top: -3vw;
-    font-size:3vw;
-}
-
-.plan-text2 h5{
-    font-size:3vw;
-    margin-top: -3vw;
-}
-
 .plan4 img{
     width:100%;
+}
+
+
+.content-title2{
+text-align: center;
+font-size:4vw;
+padding-bottom: -5vw;
+color:#676d71;
+font-family: 'PT Serif', serif;
+Border-bottom: solid 2px #c0c0c0;
 }
