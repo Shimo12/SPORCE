@@ -138,3 +138,7 @@
     font-size:3vw;
     margin-top: -3vw;
 }
+
+.img img{
+    width:100%;
+}
