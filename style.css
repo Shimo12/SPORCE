@@ -114,3 +114,18 @@ color:#676d71;
 font-family: 'PT Serif', serif;
 Border-bottom: solid 2px #c0c0c0;
 }
+
+.menu{
+    display: flex;
+    justify-content: center;
+}
+
+.menu img{
+    
+    width:25vw;
+    margin:10vw 3vw;
+}
+
+.menu span{
+    font-size: 4vw;
+}
